@@ -1,4 +1,4 @@
-# Croud Funding for artists
+# artists
 
 
 ## Install 
